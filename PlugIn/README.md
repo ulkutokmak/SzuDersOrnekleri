@@ -1,3 +1,3 @@
 # PlugIn
 
-Winform uygulamasına eklendi geliştirme örneği.
+Winform uygulamasına eklenti/plugin geliştirme örneği.
