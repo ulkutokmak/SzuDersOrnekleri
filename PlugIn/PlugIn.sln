@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DenyoSDK", "DenyoSDK\DenyoSDK.csproj", "{0B5306EA-24DB-4F48-B699-FD777A6221DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmreProcessor", "EmreProcessor\EmreProcessor.csproj", "{ADFBC788-8BF0-4616-9560-E33B0011AB0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DenyoUI", "DenyoUI\DenyoUI.csproj", "{CD72D2E3-0962-4696-A688-83C0EA3A0FD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B5306EA-24DB-4F48-B699-FD777A6221DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B5306EA-24DB-4F48-B699-FD777A6221DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B5306EA-24DB-4F48-B699-FD777A6221DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B5306EA-24DB-4F48-B699-FD777A6221DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADFBC788-8BF0-4616-9560-E33B0011AB0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADFBC788-8BF0-4616-9560-E33B0011AB0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADFBC788-8BF0-4616-9560-E33B0011AB0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADFBC788-8BF0-4616-9560-E33B0011AB0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD72D2E3-0962-4696-A688-83C0EA3A0FD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD72D2E3-0962-4696-A688-83C0EA3A0FD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD72D2E3-0962-4696-A688-83C0EA3A0FD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD72D2E3-0962-4696-A688-83C0EA3A0FD9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D2B2B28-52C0-4C06-A428-24D27AD36553}
+	EndGlobalSection
+EndGlobal

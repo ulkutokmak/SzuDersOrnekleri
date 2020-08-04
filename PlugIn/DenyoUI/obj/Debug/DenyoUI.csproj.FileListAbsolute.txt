@@ -1,0 +1,13 @@
+D:\Projects\Ders1\DenyoUI\bin\Debug\DenyoUI.exe.config
+D:\Projects\Ders1\DenyoUI\bin\Debug\DenyoUI.exe
+D:\Projects\Ders1\DenyoUI\bin\Debug\DenyoUI.pdb
+D:\Projects\Ders1\DenyoUI\obj\Debug\DenyoUI.csprojAssemblyReference.cache
+D:\Projects\Ders1\DenyoUI\obj\Debug\DenyoUI.Form1.resources
+D:\Projects\Ders1\DenyoUI\obj\Debug\DenyoUI.Properties.Resources.resources
+D:\Projects\Ders1\DenyoUI\obj\Debug\DenyoUI.csproj.GenerateResource.cache
+D:\Projects\Ders1\DenyoUI\obj\Debug\DenyoUI.csproj.CoreCompileInputs.cache
+D:\Projects\Ders1\DenyoUI\obj\Debug\DenyoUI.exe
+D:\Projects\Ders1\DenyoUI\obj\Debug\DenyoUI.pdb
+D:\Projects\Ders1\DenyoUI\bin\Debug\DenyoSDK.dll
+D:\Projects\Ders1\DenyoUI\bin\Debug\DenyoSDK.pdb
+D:\Projects\Ders1\DenyoUI\obj\Debug\DenyoUI.csproj.CopyComplete

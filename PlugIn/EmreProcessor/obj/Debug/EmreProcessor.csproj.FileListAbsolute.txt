@@ -1,0 +1,9 @@
+D:\Projects\Ders1\EmreProcessor\bin\Debug\EmreProcessor.dll
+D:\Projects\Ders1\EmreProcessor\bin\Debug\EmreProcessor.pdb
+D:\Projects\Ders1\EmreProcessor\bin\Debug\DenyoSDK.dll
+D:\Projects\Ders1\EmreProcessor\bin\Debug\DenyoSDK.pdb
+D:\Projects\Ders1\EmreProcessor\obj\Debug\EmreProcessor.csprojAssemblyReference.cache
+D:\Projects\Ders1\EmreProcessor\obj\Debug\EmreProcessor.csproj.CoreCompileInputs.cache
+D:\Projects\Ders1\EmreProcessor\obj\Debug\EmreProcessor.csproj.CopyComplete
+D:\Projects\Ders1\EmreProcessor\obj\Debug\EmreProcessor.dll
+D:\Projects\Ders1\EmreProcessor\obj\Debug\EmreProcessor.pdb

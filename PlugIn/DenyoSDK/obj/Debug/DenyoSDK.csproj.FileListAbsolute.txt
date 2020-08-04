@@ -1,0 +1,6 @@
+D:\Projects\Ders1\DenyoSDK\bin\Debug\DenyoSDK.dll
+D:\Projects\Ders1\DenyoSDK\bin\Debug\DenyoSDK.pdb
+D:\Projects\Ders1\DenyoSDK\obj\Debug\DenyoSDK.csprojAssemblyReference.cache
+D:\Projects\Ders1\DenyoSDK\obj\Debug\DenyoSDK.csproj.CoreCompileInputs.cache
+D:\Projects\Ders1\DenyoSDK\obj\Debug\DenyoSDK.dll
+D:\Projects\Ders1\DenyoSDK\obj\Debug\DenyoSDK.pdb
