@@ -1,3 +1,3 @@
 # Szutest Ders Örnekleri
 
-Ara zamanlarda yapılan derslere ait örnek projeler
+Zaman zaman bazen sabahları yapılan derslere ait örnek projeler
