@@ -1,0 +1,6 @@
+D:\Projects\Github\SzuDersOrnekleri\BinarySerialization\CommonObjects\bin\Debug\CommonObjects.dll
+D:\Projects\Github\SzuDersOrnekleri\BinarySerialization\CommonObjects\bin\Debug\CommonObjects.pdb
+D:\Projects\Github\SzuDersOrnekleri\BinarySerialization\CommonObjects\obj\Debug\CommonObjects.csprojAssemblyReference.cache
+D:\Projects\Github\SzuDersOrnekleri\BinarySerialization\CommonObjects\obj\Debug\CommonObjects.csproj.CoreCompileInputs.cache
+D:\Projects\Github\SzuDersOrnekleri\BinarySerialization\CommonObjects\obj\Debug\CommonObjects.dll
+D:\Projects\Github\SzuDersOrnekleri\BinarySerialization\CommonObjects\obj\Debug\CommonObjects.pdb

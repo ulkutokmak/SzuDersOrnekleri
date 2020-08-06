@@ -1,0 +1,13 @@
+D:\Projects\Github\SzuDersOrnekleri\BinarySerialization\ClientUI\bin\Debug\ClientUI.exe.config
+D:\Projects\Github\SzuDersOrnekleri\BinarySerialization\ClientUI\bin\Debug\ClientUI.exe
+D:\Projects\Github\SzuDersOrnekleri\BinarySerialization\ClientUI\bin\Debug\ClientUI.pdb
+D:\Projects\Github\SzuDersOrnekleri\BinarySerialization\ClientUI\bin\Debug\CommonObjects.dll
+D:\Projects\Github\SzuDersOrnekleri\BinarySerialization\ClientUI\bin\Debug\CommonObjects.pdb
+D:\Projects\Github\SzuDersOrnekleri\BinarySerialization\ClientUI\obj\Debug\ClientUI.csprojAssemblyReference.cache
+D:\Projects\Github\SzuDersOrnekleri\BinarySerialization\ClientUI\obj\Debug\ClientUI.Form1.resources
+D:\Projects\Github\SzuDersOrnekleri\BinarySerialization\ClientUI\obj\Debug\ClientUI.Properties.Resources.resources
+D:\Projects\Github\SzuDersOrnekleri\BinarySerialization\ClientUI\obj\Debug\ClientUI.csproj.GenerateResource.cache
+D:\Projects\Github\SzuDersOrnekleri\BinarySerialization\ClientUI\obj\Debug\ClientUI.csproj.CoreCompileInputs.cache
+D:\Projects\Github\SzuDersOrnekleri\BinarySerialization\ClientUI\obj\Debug\ClientUI.csproj.CopyComplete
+D:\Projects\Github\SzuDersOrnekleri\BinarySerialization\ClientUI\obj\Debug\ClientUI.exe
+D:\Projects\Github\SzuDersOrnekleri\BinarySerialization\ClientUI\obj\Debug\ClientUI.pdb

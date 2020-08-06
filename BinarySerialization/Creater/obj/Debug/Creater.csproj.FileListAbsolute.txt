@@ -1,0 +1,10 @@
+D:\Projects\Github\SzuDersOrnekleri\BinarySerialization\Creater\bin\Debug\Creater.exe.config
+D:\Projects\Github\SzuDersOrnekleri\BinarySerialization\Creater\bin\Debug\Creater.exe
+D:\Projects\Github\SzuDersOrnekleri\BinarySerialization\Creater\bin\Debug\Creater.pdb
+D:\Projects\Github\SzuDersOrnekleri\BinarySerialization\Creater\bin\Debug\CommonObjects.dll
+D:\Projects\Github\SzuDersOrnekleri\BinarySerialization\Creater\bin\Debug\CommonObjects.pdb
+D:\Projects\Github\SzuDersOrnekleri\BinarySerialization\Creater\obj\Debug\Creater.csprojAssemblyReference.cache
+D:\Projects\Github\SzuDersOrnekleri\BinarySerialization\Creater\obj\Debug\Creater.csproj.CoreCompileInputs.cache
+D:\Projects\Github\SzuDersOrnekleri\BinarySerialization\Creater\obj\Debug\Creater.csproj.CopyComplete
+D:\Projects\Github\SzuDersOrnekleri\BinarySerialization\Creater\obj\Debug\Creater.exe
+D:\Projects\Github\SzuDersOrnekleri\BinarySerialization\Creater\obj\Debug\Creater.pdb
