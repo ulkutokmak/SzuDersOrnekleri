@@ -1,3 +1,3 @@
 # Hangman
 
-Winform uygulamasına adam asmaca oyunu.
+Winform adam asmaca oyunu.
